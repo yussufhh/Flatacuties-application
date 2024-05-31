@@ -1,0 +1,48 @@
+
+  [
+    {
+      "name": "Cat",
+      "description": "A cat is a small, agile mammal known for its independence, sharp claws, and keen hunting instincts.",
+      "image": "https://images.pexels.com/photos/20349355/pexels-photo-20349355/free-photo-of-ginger-cat-in-yard.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "name": "Elephant",
+      "description": "An elephant is a large, gentle herbivore known for its long trunk, tusks, and exceptional memory.",
+      "image": "https://images.pexels.com/photos/982021/pexels-photo-982021.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "name": "Monkey",
+      "description": "A monkey is a highly agile and intelligent primate known for its playful behavior and dexterous hands.",
+      "image": "https://images.pexels.com/photos/1188998/pexels-photo-1188998.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "name": "Lion",
+      "description": "A lion is a large, powerful carnivore known for its majestic mane and status as the king of the jungle.",
+      "image": "https://images.pexels.com/photos/797582/pexels-photo-797582.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "name": "Dolphin",
+      "description": "A dolphin is an intelligent, social marine mammal known for its playful behavior and echolocation abilities",
+      "image": "https://images.pexels.com/photos/11342079/pexels-photo-11342079.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "name": "Panda",
+      "description": "A panda is a bear-like mammal known for its distinctive black-and-white fur and preference for bamboo",
+      "image": "https://images.pexels.com/photos/7506265/pexels-photo-7506265.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "name": "Kangaroo",
+      "description": "A kangaroo is a large marsupial native to Australia, known for its powerful hind legs and distinctive hopping movement.",
+      "image": "https://images.pexels.com/photos/20328902/pexels-photo-20328902/free-photo-of-close-up-of-a-kangaroo-on-a-field.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "name": "Giraffe ",
+      "description": "A giraffe is an exceptionally tall herbivore recognized for its long neck and legs, and distinctive spotted coat.",
+      "image": "https://images.pexels.com/photos/1435496/pexels-photo-1435496.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+    
+  ]
+  
+  
+  
+

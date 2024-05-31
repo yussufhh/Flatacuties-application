@@ -1,0 +1,27 @@
+/* Styles for cat details */
+.animal-vote{
+  height: 100vh;
+  margin-top: 80px;
+  
+}
+#cat-details {
+  display: none;
+  margin-top: 20px;
+}
+
+#cat-details img {
+  max-width: 100px;
+  height: 10px;
+  height: auto;
+}
+
+/* Styles for cat buttons */
+#cat-buttons {
+  margin-top: 20px;
+}
+
+#cat-buttons button {
+  margin-right: 10px;
+}
+
+
